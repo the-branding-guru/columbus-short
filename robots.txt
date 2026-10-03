@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbusshort.com/sitemap.xml
